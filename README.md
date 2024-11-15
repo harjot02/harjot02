@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Harjot 
 
-## - 🌱 I’m currently learning: Operating Systems, Secure Systems and Programming, Automata, and Databases
+## I’m a 3rd year at GMU studying CS. Actively looking for Summer 2025 Internships
 #
 <!--
 **harjot02/harjot02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
